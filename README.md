@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xsanos
 - 👀 I’m interested in **PLAYING DRAGONFORCE**
 - 🌱 I’m currently learning Javascript, React and other fullstack stuff
-- 📫 How to reach me ... you can't reach me
+- 📫 How to reach me ... pls don't, I have social anxiety
 - ⚡ Fun fact: My repos are empty because I'm lazy LMAO
 
 <!---
