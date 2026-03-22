@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Xsanos
-- 👀 I’m interested in **PLAYING DRAGONFORCE**
-- 🌱 I’m currently learning Javascript, React and other fullstack stuff
-- 📫 How to reach me ... pls don't
-- ⚡ Fun fact: My repos are empty because I'm lazy
+- 👀 I’m interested in **PLAYING DRAGONFORCE🔥* * (5y guitarist)
+- 🌱 I’m currently learning React.js, version control, linux/windows automation🫡
+- ⚡ Fun fact: My projects are private, but I'll try finnish and publish them
 
 <!---
 Xsanos/Xsanos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
