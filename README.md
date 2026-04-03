@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xsanos
 - 👀 I’m interested in **PLAYING DRAGONFORCE🔥* * (5y guitarist)
-- 🌱 I’m currently learning React.js, version control, linux/windows automation🫡
+- 🌱 I’m currently learning React.js, version control, C, ASM🫡
 - ⚡ Fun fact: My projects are private, but I'll try finnish and publish them
 
 <!---
